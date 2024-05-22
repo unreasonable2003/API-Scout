@@ -1,0 +1,19 @@
+{
+  "name": "api-scout",
+  "version": "1.0.0",
+  "description": "This is an app built to test REST APIs similar to Postman",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
